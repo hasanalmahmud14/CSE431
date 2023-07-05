@@ -1,7 +1,8 @@
 Link to unlisted YouTube video:
-
+https://youtu.be/BN8GHmfeQPA
 
 Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1zVYFSoRe-Jif1hqPGEs9PIZgNk4NZbA8RGKX5fARfrg/edit?usp=sharing
 
 
 Paper title:
